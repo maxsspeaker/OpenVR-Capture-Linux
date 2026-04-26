@@ -2,10 +2,6 @@
 
 This plugin allows capturing directly from OpenVR/SteamVR in full resolution.
 
-A fork of OBS-OpenVR-Input-Plugin, originally made by Keijo "Kegetys" Ruotsalainen
-
-A fork of OBS-OpenVR-Input-Plugin, originally made by Keijo "Kegetys" Ruotsalainen
-
 <img width="2544" height="1425" alt="Снимок экрана_20260426_145319" src="https://github.com/user-attachments/assets/97ddd506-75df-454f-b43b-8481ba4ba2b7" />
 
 
